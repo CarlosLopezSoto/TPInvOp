@@ -1,0 +1,9 @@
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\bin\Debug\netstandard2.0\ClasesStock.deps.json
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\bin\Debug\netstandard2.0\ClasesStock.dll
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\bin\Debug\netstandard2.0\ClasesStock.pdb
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.dll
+C:\Users\Administrador\source\repos\TPIntegradorIO\ClasesStock\obj\Debug\netstandard2.0\ClasesStock.pdb

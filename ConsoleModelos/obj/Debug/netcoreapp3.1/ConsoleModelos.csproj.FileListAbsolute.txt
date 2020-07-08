@@ -1,0 +1,16 @@
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.exe
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.deps.json
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.runtimeconfig.json
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.runtimeconfig.dev.json
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.dll
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ConsoleModelos.pdb
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ClasesStock.dll
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\bin\Debug\netcoreapp3.1\ClasesStock.pdb
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.csprojAssemblyReference.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.csproj.CopyComplete
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.dll
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.pdb
+C:\Users\Administrador\source\repos\TPIntegradorIO\ConsoleModelos\obj\Debug\netcoreapp3.1\ConsoleModelos.genruntimeconfig.cache

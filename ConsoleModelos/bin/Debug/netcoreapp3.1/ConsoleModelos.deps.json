@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ConsoleModelos/1.0.0": {
+        "dependencies": {
+          "ClasesStock": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleModelos.dll": {}
+        }
+      },
+      "ClasesStock/1.0.0": {
+        "runtime": {
+          "ClasesStock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleModelos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClasesStock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
